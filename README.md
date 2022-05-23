@@ -1,4 +1,4 @@
-# Alphabet Soup Charity
+# Alphabet Soup Charity Report
 
 ## Overview
 The purpose of this analysis is to identify if our neural network model can utilize charity data collected by Alphabet Soup and predict the success of the charity with at least 75% confidence.
